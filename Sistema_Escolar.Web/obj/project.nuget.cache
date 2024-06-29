@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "BTfrzpX+/Pk3pAcaVHd/FsYIg4+0QcQnbcmlenvEfQMX97f7j04mJlF29E3/kPhqP4kBVLy2i+U86HIFPF12BQ==",
+  "dgSpecHash": "Ff+geDwSuq0RR/P4MwBrraeGoIgzC0d3uF3W0T+PQCzEqzjc4m9c+uYF2v2Eu5YcrADY5oD16lxcvqbNFssICA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\theka\\source\\Proyectos\\Sistema_Escolar\\Sistema_Escolar.Web\\Sistema_Escolar.Web.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\lilia\\Source\\Repos\\Sistema_Escolar\\Sistema_Escolar.Web\\Sistema_Escolar.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lilia\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\lilia\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\lilia\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\lilia\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }
