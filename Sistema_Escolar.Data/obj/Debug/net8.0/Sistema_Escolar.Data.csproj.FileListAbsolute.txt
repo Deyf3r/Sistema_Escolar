@@ -1,0 +1,13 @@
+C:\Users\jimmy\Source\Repos\Sistema_Escolar\Sistema_Escolar.Data\bin\Debug\net8.0\Sistema_Escolar.Data.deps.json
+C:\Users\jimmy\Source\Repos\Sistema_Escolar\Sistema_Escolar.Data\bin\Debug\net8.0\Sistema_Escolar.Data.dll
+C:\Users\jimmy\Source\Repos\Sistema_Escolar\Sistema_Escolar.Data\bin\Debug\net8.0\Sistema_Escolar.Data.pdb
+C:\Users\jimmy\Source\Repos\Sistema_Escolar\Sistema_Escolar.Data\obj\Debug\net8.0\Sistema_Escolar.Data.csproj.AssemblyReference.cache
+C:\Users\jimmy\Source\Repos\Sistema_Escolar\Sistema_Escolar.Data\obj\Debug\net8.0\Sistema_Escolar.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jimmy\Source\Repos\Sistema_Escolar\Sistema_Escolar.Data\obj\Debug\net8.0\Sistema_Escolar.Data.AssemblyInfoInputs.cache
+C:\Users\jimmy\Source\Repos\Sistema_Escolar\Sistema_Escolar.Data\obj\Debug\net8.0\Sistema_Escolar.Data.AssemblyInfo.cs
+C:\Users\jimmy\Source\Repos\Sistema_Escolar\Sistema_Escolar.Data\obj\Debug\net8.0\Sistema_Escolar.Data.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\Source\Repos\Sistema_Escolar\Sistema_Escolar.Data\obj\Debug\net8.0\Sistema_Escolar.Data.sourcelink.json
+C:\Users\jimmy\Source\Repos\Sistema_Escolar\Sistema_Escolar.Data\obj\Debug\net8.0\Sistema_Escolar.Data.dll
+C:\Users\jimmy\Source\Repos\Sistema_Escolar\Sistema_Escolar.Data\obj\Debug\net8.0\refint\Sistema_Escolar.Data.dll
+C:\Users\jimmy\Source\Repos\Sistema_Escolar\Sistema_Escolar.Data\obj\Debug\net8.0\Sistema_Escolar.Data.pdb
+C:\Users\jimmy\Source\Repos\Sistema_Escolar\Sistema_Escolar.Data\obj\Debug\net8.0\ref\Sistema_Escolar.Data.dll
